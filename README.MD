@@ -1,10 +1,10 @@
 Welcome to chez-blog theme.... This is a simple blog theme for wordpress themed for gym owners in order to provide content to their members and also advertise their products to members and as well the general public...
 
-# INSTALLATION---
+## INSTALLATION---
 
 *Install Ninja Form plugin for the contact page or any contact form plugin that suits your needs.
 
-# Copyright
+## Copyright
 
 Chez-Blog Wordpress Theme, Copyright 2021-2022
 Chez-Blog is Distributed under the terms of the GNU GPL
@@ -21,6 +21,6 @@ GNU General Public License for more details.
 
 
 
-# VERSION
+## VERSION
 
 This is the first version(1.0) relased, with encouragements more features will be added in the future versions
