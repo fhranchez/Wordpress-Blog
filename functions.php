@@ -5,6 +5,7 @@ function load_stylesheets() {
 	wp_enqueue_style('style', get_stylesheet_uri() . '?v' . time() );
 
 	wp_enqueue_style('wp-google-fonts','https://fonts.googleapis.com/css2?family=Allison&family=Crimson+Text:ital,wght@1,400;1,600&family=Noto+Serif&family=Nanum+Myeongjo&family=Scheherazade+New&display=swap', [],null);
+
 	
 	wp_enqueue_script('fontawesome', 'https://kit.fontawesome.com/b7fd1483d5.js');
 }
